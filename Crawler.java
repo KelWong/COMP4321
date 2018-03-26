@@ -1,3 +1,9 @@
+//import jdbm as LAB Example
+import jdbm.RecordManager;
+import jdbm.RecordManagerFactory;
+import jdbm.htree.HTree;
+import jdbm.helper.FastIterator;
+
 // "every .java starts with  'public class [its name]'{}'"
 public class Crawler{
     // = c++ that main()
