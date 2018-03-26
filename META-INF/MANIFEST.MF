@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: JDBM
+Specification-Vendor: JDBM at SourceForge Project
+Created-By: Ant 1.4.1
+Implementation-Vendor: JDBM at SourceForge Project
+Specification-Version: 0.09
+Implementation-Version: 1.0
+Implementation-Title: JDBM
+
